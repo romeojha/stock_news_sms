@@ -1,3 +1,7 @@
+#from news api endpoint getting top 4 news and this will be
+#later called on main
+
+
 import requests
 import datetime
 
